@@ -1,2 +1,2 @@
-# Hedgehoglab-task
-new code for the given task
+# Hedgehog-lab--task
+code for the project
